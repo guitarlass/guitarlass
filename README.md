@@ -57,7 +57,7 @@ Here are a few projects that showcase my work and skills:
 I'm always open to exploring new project ideas and collaborations. Let’s discuss how we can bring your ideas to life together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-virangya-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virangya/)
-[![Email](https://img.shields.io/badge/Email-virangya@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virangya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-virangya@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guitarlass@gmail.com)
 
 ---
 
