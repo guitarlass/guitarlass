@@ -41,7 +41,7 @@ Here are a few projects that showcase my work and skills:
 
 4. **A Data Hub**  
    A visually engaging website designed to present data in a user-friendly, easily digestible format. Built with RESTful APIs and seamless API integrations, this site aggregates data from APIs, focusing on clean, intuitive design and layout to enhance user experience. 
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![CMS](https://img.shields.io/badge/Type-RESTful-APIs-orange)
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![RESTful-APIs](https://img.shields.io/badge/Type-RESTful-APIs-orange)
 
 ---
 
