@@ -16,6 +16,7 @@ I'm a passionate developer with over 15 years of experience specializing in **ba
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge&logo=automate&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF5722?style=for-the-badge&logo=web&logoColor=white)
 
