@@ -1,4 +1,4 @@
-# Hi there, Welcome to VissDev 👋
+# Welcome to VissDev 👋
 
 ### 💻 Developer | 🚀 Automation Enthusiast | 🎨 Web Solutions Architect
 
