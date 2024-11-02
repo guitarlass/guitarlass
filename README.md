@@ -31,17 +31,17 @@ I'm a passionate developer with over 15 years of experience specializing in **ba
 
 Here are a few projects that showcase my work and skills:
 
-1. **MIS for University**  
-   A comprehensive Management Information System that streamlines processes from student enrollment to examination reporting and graduation.  
-   ![PHP](https://img.shields.io/badge/Built%20with-PHP-blue) ![Database](https://img.shields.io/badge/Database-MySQL-green)
+1. **Evolving Automation**  
+   I am currently exploring a new project that blends Python's automation potential with remote control, creating seamless, intelligent interactions with the world around us. It’s an experiment in bringing automation closer to everyday life.
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-purple) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
 
 2. **Scraping and Automation Tool**  
-   A powerful web scraping GUI built in Python for extracting dynamic content and automating repetitive tasks.  
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-green)
+   A powerful web scraping app built in Python for extracting dynamic content and automating repetitive tasks. This site connects with multiple platforms, retrieves live data, and displays it in a user-friendly, interactive format. 
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-purple)
 
-3. **Custom CMS for Blogging**  
-   A feature-rich CMS developed with user-friendly interfaces and customizable options tailored for bloggers.  
-   ![PHP](https://img.shields.io/badge/Built%20with-PHP-blue) ![CMS](https://img.shields.io/badge/Type-CMS-orange)
+3. **A Data Hub**  
+   A visually engaging website designed to present data in a user-friendly, easily digestible format. Built with RESTful APIs and seamless API integrations, this site aggregates data from APIs, focusing on clean, intuitive design and layout to enhance user experience. 
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![CMS](https://img.shields.io/badge/Type-RESTful-APIs-orange)
 
 ---
 
