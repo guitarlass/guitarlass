@@ -32,16 +32,17 @@ I'm a passionate developer with over 15 years of experience specializing in **ba
 Here are a few projects that showcase my work and skills:
 
 1. **Evolving Automation**  
-   I am currently exploring a new project that blends Python's automation potential with remote control, creating seamless, intelligent interactions with the world around us. It’s an experiment in bringing automation closer to everyday life.
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-purple) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
+   Currently, I am exploring a project that combines Python's automation capabilities with remote control, fostering seamless and intelligent interactions with our environment. This initiative aims to integrate automation into everyday life, enhancing convenience and efficiency.  
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![Automation](https://img.shields.io/badge/Type-Automation-yellow) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
 
-3. **Scraping and Automation Tool**  
-   A powerful web scraping app built in Python for extracting dynamic content and automating repetitive tasks. This site connects with multiple platforms, retrieves live data, and displays it in a user-friendly, interactive format. 
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-purple)
+2. **Scraping and Automation Tool**  
+   A powerful web scraping application developed in Python that extracts dynamic content and automates repetitive tasks. This tool interfaces with multiple platforms to retrieve live data and presents it in an interactive, user-friendly format.  
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Flask](https://img.shields.io/badge/Built%20with-Flask-green) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![Automation](https://img.shields.io/badge/Type-Automation-yellow)
 
-4. **A Data Hub**  
-   A visually engaging website designed to present data in a user-friendly, easily digestible format. Built with RESTful APIs and seamless API integrations, this site aggregates data from APIs, focusing on clean, intuitive design and layout to enhance user experience. 
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![RESTful-APIs](https://img.shields.io/badge/Type-RESTful-APIs-orange)
+3. **A Data Hub**  
+   A visually engaging website crafted to present data in a user-friendly and easily digestible format. Utilizing RESTful APIs and seamless API integrations, this site aggregates information from various sources, prioritizing clean design and layout to enhance the user experience.  
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Flask](https://img.shields.io/badge/Built%20with-Flask-green) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![APIs](https://img.shields.io/badge/Type-API-orange)
+
 
 ---
 
