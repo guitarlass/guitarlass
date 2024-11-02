@@ -35,11 +35,11 @@ Here are a few projects that showcase my work and skills:
    I am currently exploring a new project that blends Python's automation potential with remote control, creating seamless, intelligent interactions with the world around us. It’s an experiment in bringing automation closer to everyday life.
    ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-purple) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
 
-2. **Scraping and Automation Tool**  
+3. **Scraping and Automation Tool**  
    A powerful web scraping app built in Python for extracting dynamic content and automating repetitive tasks. This site connects with multiple platforms, retrieves live data, and displays it in a user-friendly, interactive format. 
    ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Automation](https://img.shields.io/badge/Type-Automation-purple)
 
-3. **A Data Hub**  
+4. **A Data Hub**  
    A visually engaging website designed to present data in a user-friendly, easily digestible format. Built with RESTful APIs and seamless API integrations, this site aggregates data from APIs, focusing on clean, intuitive design and layout to enhance user experience. 
    ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![CMS](https://img.shields.io/badge/Type-RESTful-APIs-orange)
 
