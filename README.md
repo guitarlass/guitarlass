@@ -34,17 +34,18 @@ I'm a passionate developer with over 15 years of experience specializing in **ba
 
 Here are a few projects that showcase my work and skills:
 
-1. **Evolving Automation**  
-   Currently, I am exploring a project that combines Python's automation capabilities with remote control, fostering seamless and intelligent interactions with our environment. This initiative aims to integrate automation into everyday life, enhancing convenience and efficiency.  
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![Automation](https://img.shields.io/badge/Type-Automation-009688) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
+1. **Domain Specific Philosophy Chatbot** 
+   Currently, I am exploring and researching ideas and designing archetecture to built an AI chatbot based on a specific philosophical teachings that people actually follow — that allows users to debate, explore and gain insight. 
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
 
-2. **Scraping and Automation Tool**  
+2. **Scraping and Automation Tool**  (completed!)
    A powerful web scraping application developed in Python that extracts dynamic content and automates repetitive tasks. This tool interfaces with multiple platforms to retrieve live data and presents it in an interactive, user-friendly format.  
    ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Flask](https://img.shields.io/badge/Built%20with-Flask-green) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![Automation](https://img.shields.io/badge/Type-Automation-009688)
 
-3. **A Data Hub**  
-   A visually engaging website crafted to present data in a user-friendly and easily digestible format. Utilizing RESTful APIs and seamless API integrations, this site aggregates information from various sources, prioritizing clean design and layout to enhance the user experience.  
-   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Flask](https://img.shields.io/badge/Built%20with-Flask-green) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![APIs](https://img.shields.io/badge/Type-API-orange)
+3. **Evolving Automation**  
+   Currently, I am exploring a project that combines Python's automation capabilities with remote control, fostering seamless and intelligent interactions with our environment. This initiative aims to integrate automation into everyday life, enhancing convenience and efficiency.  
+   ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Bootstrap](https://img.shields.io/badge/Built%20with-Bootstrap-purple) ![Automation](https://img.shields.io/badge/Type-Automation-009688) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
+
 
 
 ---
