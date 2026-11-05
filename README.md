@@ -1,6 +1,6 @@
-# Welcome to VissDev 👋
+# Hi, Welcome ! 👋
 
-### 💻 Developer | 🚀 Automation Enthusiast | 🎨 Web Solutions Architect
+### 💻 Proprietor | Enthusiastic Developer | 🚀 Automation and AI Architect | 🎨 Customized Web Solutions
 
 ---
 
@@ -35,7 +35,7 @@ I'm a passionate developer with over 15 years of experience specializing in **ba
 Here are a few projects that showcase my work and skills:
 
 1. **Domain Specific Philosophy Chatbot**
-   Currently, I am exploring and researching ideas and designing archetecture to built an AI chatbot based on a specific philosophical teachings that people actually follow — that allows users to debate, explore and gain insight. 
+   Currently, I am exploring and researching ideas and designing architecture to built an AI chatbot based on a specific philosophical teachings that people actually follow — that allows users to debate, explore and gain insight. 
    ![Python](https://img.shields.io/badge/Built%20with-Python-blue) ![Database](https://img.shields.io/badge/Database-Postgresql-green)
 
 3. **Scraping and Automation Tool**  (completed!)
